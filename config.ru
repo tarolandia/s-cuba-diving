@@ -1,0 +1,2 @@
+require "./scubadiving"
+run Cuba
